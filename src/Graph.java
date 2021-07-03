@@ -1,7 +1,7 @@
 //This software is  made by: Denes Kutlan George
 //The software is open src, that means - you can modify / edit the code freely as long as you don't publish it publicly on the internet!
-//Copyright © 2020 - 2021 Denes K. G., All rights served 
-//Contacts: Gmail: h43to.code@gmail.com; Discord: H43TO#0668
+//Copyright Â© 2020 - 2021 Denes K. G., All rights served 
+//Contacts: Gmail: h43to.code@gmail.com; Discord: H34TO#0668
 
 import java.awt.BasicStroke;
 import java.awt.Color;
